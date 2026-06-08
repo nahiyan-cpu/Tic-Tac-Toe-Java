@@ -35,6 +35,10 @@ Tic-Tac-Toe-Java
 |------Terminal-Version
 |------GUI-Version
 |------Images
+
+## Commands To Play The Game
+javac TicTacToeTerminal
+
 ## Author
 Syed Nahiyan Alam
 CSE,USTC
