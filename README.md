@@ -4,8 +4,7 @@
 
 This project is a Java-based Tic-Tac-Toe game.It includes two versions:
 
--Terminal Version
--GUI Version
+-Terminal Version -GUI Version
 
 The Game allows two players to play Tic-Tac-Toe with winner and draw detection features.
 
